@@ -3,3 +3,8 @@ second
 333
 444
 555
+
+git gui test
+amend
+amend2
+-----------------
